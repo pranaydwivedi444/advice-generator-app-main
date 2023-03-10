@@ -6,7 +6,7 @@ This is a simple web application that generates random pieces of advice using th
 
 ## Demo
 
-You can see a live demo of the project [here](https://your-demo-link.com).
+You can see a live demo of the project [here](https://pranaydwivedi444.github.io/advice-generator-app-main/).
 
 ## Installation
 
