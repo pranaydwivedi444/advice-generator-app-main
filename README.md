@@ -1,5 +1,7 @@
 # advice-generator-app-main
  advice genetaor from front end mentor challenge
+ ![image](https://user-images.githubusercontent.com/48515987/224290546-9e102650-840e-447e-9d3a-e8fc5ec5a581.png)
+
 # Advice Quote Generator
 
 This is a simple web application that generates random pieces of advice using the [Advice Slip API](https://api.adviceslip.com/).
