@@ -27,7 +27,8 @@ body {
   position: relative;
   /* flex-basis: 50%; */
   /* max-width: maxmin(20%, 23rem); */
-width: clamp(23rem,450px,40%);
+  width: clamp(23rem, 450px, 40%);
+  min-height: 30vh;
   text-align: center;
   background-color: hsl(217, 19%, 24%);
   border-radius: 12px;
@@ -43,11 +44,16 @@ width: clamp(23rem,450px,40%);
   /* width: auto; */
   font-weight: 800;
   color: white;
-  margin: 0.5rem 1rem;
+  margin: 2rem 1rem;
+  margin-bottom: 1rem;
+}
+.quotes {
+  padding: 1rem 0;
 }
 .pattern-divider {
   width: 85%;
   margin: 1rem auto;
+  margin-top: 2rem;
   margin-bottom: 2rem;
   /* background-color: red; */
 }
