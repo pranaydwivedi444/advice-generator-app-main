@@ -27,7 +27,7 @@ body {
   position: relative;
   /* flex-basis: 50%; */
   /* max-width: maxmin(20%, 23rem); */
-font-size: clamp(23rem,450px,45%);
+width: clamp(23rem,450px,40%);
   text-align: center;
   background-color: hsl(217, 19%, 24%);
   border-radius: 12px;
